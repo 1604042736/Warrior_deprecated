@@ -1,0 +1,8 @@
+{
+    "name":"玩家",
+    "realname":"player",
+    "texture_index":64,
+    "replace_colors":[
+        [[255,0,255],[0,0,0]]
+    ]
+}

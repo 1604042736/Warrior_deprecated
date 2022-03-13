@@ -1,0 +1,9 @@
+{
+    "name":"肉",
+    "realname":"meat",
+    "texture_index":224,
+    "replace_colors":[
+        [[255,0,255],[0,0,0]]
+    ],
+    "eat":10
+}

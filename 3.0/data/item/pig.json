@@ -1,0 +1,11 @@
+{
+    "name":"猪",
+    "realname":"pig",
+    "texture_index":112,
+    "replace_colors":[
+        [[255,0,255],[0,0,0]],
+        [[255,255,255],[240,255,36]]
+    ],
+    "heart":20,
+    "dropobj":["leather","meat"]
+}

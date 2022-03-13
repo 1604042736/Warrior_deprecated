@@ -1,0 +1,8 @@
+{
+    "name":"地板",
+    "realname":"floor",
+    "texture_index":0,
+    "replace_colors":[
+        [[255,0,255],[230,225,85]]
+    ]
+}
