@@ -1,8 +1,0 @@
-{
-    "name":"水",
-    "texture_index":20,
-    "replace_colors":[
-        [[255,0,255],[0,0,0]]
-    ],
-    "drink":10
-}

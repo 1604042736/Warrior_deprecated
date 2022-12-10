@@ -1,5 +1,0 @@
-wooden_sword
-iron_sword
-leather
-meat
-water

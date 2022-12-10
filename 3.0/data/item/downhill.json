@@ -1,8 +1,0 @@
-{
-    "name":"下坡",
-    "realname":"downhill",
-    "texture_index":31,
-    "replace_colors":[
-        [[255,0,255],[0,0,0]]
-    ]
-}
