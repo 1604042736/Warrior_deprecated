@@ -1,0 +1,13 @@
+{
+    "name": "Sword",
+    "Tile": {
+        "row": 5,
+        "col": 12,
+        "background_color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "base_aggressivity": 10
+}
