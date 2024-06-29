@@ -1,0 +1,9 @@
+{
+    "name":"地面",
+    "realname":"ground",
+    "texture_index":0,
+    "replace_colors":[
+        [[255,0,255],[109,88,85]]
+    ],
+    "value":1
+}

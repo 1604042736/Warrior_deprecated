@@ -1,0 +1,9 @@
+{
+    "name":"草",
+    "realname":"grass",
+    "texture_index":0,
+    "replace_colors":[
+        [[255,0,255],[0,255,0]]
+    ],
+    "value":1
+}

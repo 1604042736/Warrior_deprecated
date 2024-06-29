@@ -1,0 +1,8 @@
+{
+    "name":"观察者",
+    "realname":"look",
+    "texture_index":88,
+    "replace_colors":[
+        [[255,0,255],[0,0,0]]
+    ]
+}

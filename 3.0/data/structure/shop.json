@@ -1,0 +1,12 @@
+{
+    "name":"shop",
+    "structure":[
+        [
+            ["wooden_wall","floor","floor","floor","wooden_wall"],
+            ["floor","floor","floor","floor","floor"],
+            ["floor","floor","wooden_wall","floor","floor"],
+            ["floor","floor","floor","floor","floor"],
+            ["wooden_wall","floor","floor","floor","wooden_wall"]
+        ]
+    ]
+}
